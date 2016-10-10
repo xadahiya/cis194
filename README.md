@@ -1,2 +1,3 @@
+# My haskell code for CIS194
 # CIS194 - Introduction to Haskell - SEAS
 Haskell is a high-level, purely functional programming language with a strong static type system and elegant mathematical underpinnings. It is being increasingly used in industry by organizations such as Facebook, AT&T, and NASA, along with several financial firms. We will explore the joys of functional programming, using Haskell as a vehicle. In the first part of the course, you will learn to use Haskell to easily and conveniently write practical programs. The last couple of weeks will consist of several special topics that explore advanced features of Haskell. Evaluation will be based on class participation, weekly programming assignments, and an open-ended final project.
